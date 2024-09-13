@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OhhTuRnz
-- 👀 I’m interested in Data Science, Business Analytics, Artifficial Intelligence (mainly Machine Learning), Web dev e.t.c
-- 🌱 I’m currently learning Software Engineering, Deep Learning, Machine Learning, Backend and what sparks my curiosity overall.
-- 💞️ I’m looking to collaborate on AI Projects.
-- 📫 How to reach me [linkedin profile](https://www.linkedin.com/in/carrusk/)
+- 👋 Hi, I’m @OhhTuRnz  
+- 👀 I am an Artificial Intelligence researcher currently working at Massachusetts Institute of Technology as a visiting student from Universidad Politécnica de Madrid.  
+- 🚀 I’m working on Large Language Models as Space Operators, with applied research on autonomous spacecraft piloting and space robotics.  
+- 📝 I have published two papers on ArXiv: *Language Models are Spacecraft Operators* and *Fine-Tuning LLMs For Autonomous Spacecraft Control: A Case Study Using Kerbal Space Program*.  
+- 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/carrusk/)
 
 <!---
 OhhTuRnz/OhhTuRnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
