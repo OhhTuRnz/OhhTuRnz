@@ -6,7 +6,7 @@
 <p align="center">
 I am Alejandro Carrasco-Aragón — a Graduate Researcher @ <code><a href="https://aeroastro.mit.edu/">MIT AeroAstro</a></code> / <code><a href="https://aeroastro.mit.edu/arclab/arc-people/">ARCLab</a></code>.<br>
 I work on AI agents for autonomous spacecraft operations and embodied systems.<br>
-Founder & CTO @ <code><a href="https://www.multiplylabor.com/">Multiply</a></code>, building automation for high-mix manufacturing.
+Founder @ <code><a href="https://www.multiplylabor.com/">Multiply</a></code>, building automation for high-mix manufacturing.
 </p>
 
 ## Projects
