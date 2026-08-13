@@ -12,7 +12,7 @@ Founder @ <code><a href="https://www.multiplylabor.com/">Multiply</a></code>, bu
 ## Projects
 
 - **[BEAVR](https://github.com/ARCLab-MIT/beavr-bot)** - VR teleoperation system for robotic data collection and imitation learning (**100+ stars**)
-- **[KSPDG](https://github.com/ARCLab-MIT/kspdg)** - Benchmark for autonomous spacecraft guidance, navigation, and control (**20+ stars**)
+- **[KSPDG](https://github.com/ARCLab-MIT/kspdg)** - Benchmark for autonomous spacecraft guidance, navigation, and control (**30+ stars**)
 
 ## Publications
 
