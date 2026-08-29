@@ -1,5 +1,4 @@
 [<img src="https://img.shields.io/static/v1?label=&message=WWW&color=ffffff&style=for-the-badge" />](https://carrusk.site/)
-[<img src="https://img.shields.io/static/v1?label=&message=Multiply&color=000000&style=for-the-badge" />](https://www.multiplylabor.com/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />](https://www.linkedin.com/in/carrusk/)
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6KamS70AAAAJ)
 
